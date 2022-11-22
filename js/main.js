@@ -17,7 +17,7 @@ $('.center').slick({
         settings: {
           arrows: false,
           centerMode: true,
-          centerPadding: '40px',
+          centerPadding: '30px',
           slidesToShow: 1
         }
       }

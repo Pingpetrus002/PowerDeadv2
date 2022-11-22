@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+body{
+
+    background-color: #7eefb3;
+
+}
+
+.nav_color{
+    background-color: #00DB5B;
+
+
+}
+
+.logo_size{
+    width: 105px;
+    height: 80px;
+
+
+}
+
+.picto_size{
+    width: 80px;
+    height: 80px;
+    
+}
+
+.font{
+    font-family: 'Arvo', serif;
+
+}
+
+.affiche{
+
+    margin-top: 20px;
+
+}
+
+.marge_nav{
+    margin-bottom: 40px;
+}
+
+.marge_carte{
+    margin-bottom: 20px;
+}
+
+.marge_txt{
+
+    padding-top: 50px;
+
+}
+
+.marge_row{
+
+    padding-left: 20px;
+
+
+}    
+
+.pad_txt{
+    padding-bottom: 30px;
+}
+
+.taille{
+
+    width: 1587px;
+    height: 2245px;
+
+}
+
+.bg-1 { 
+    background-color: #1abc9c; 
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #474e5d; 
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff; 
+    color: #555555;
+}
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #fff;
+  }
+
+.devanture {
+    box-shadow: 6px 6px 10px;
+}
+ 
